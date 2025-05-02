@@ -1,0 +1,66 @@
+﻿SNO,Indicator Type,Value,Additional Notes,Attack Phase,Payload / Attack / Actor / Tool / Vulnerability Name/Type
+1,URL,hxxp://23.95.123.5:666/xmrigCCall/8bq.sh,URL reported to be used to download the shell scripts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+2,URL,hxxps://ocr-freespace.oss-cn-beijing.aliyuncs.com/2025/config.sh,URL reported to be used to download the shell scripts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+3,URL,hxxp://abode-dashboard-media.s3.ap-south-1.amazonaws.com/BCYVrrHX,URL reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+4,URL,hxxp://temp.sh/vvgtW/webhelper,URL reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+5,IPv4,138.68.61.82,IP address reported to be used to download the shell scripts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+6,IPv4,59.110.190.23,IP address reported to be used to download the shell scripts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+7,IPv4,23.95.123.5,IP address reported to be used to download the shell scripts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+8,IPv4,50.114.94.57,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+9,IPv4,63.135.161.220,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+10,IPv4,91.218.50.174,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+11,IPv4,159.89.93.5,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+12,IPv4,167.99.11.36,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+13,IPv4,63.135.161.223,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+14,IPv4,63.135.161.224,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+15,IPv4,63.135.161.226,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+16,IPv4,63.135.161.229,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+17,IPv4,63.135.161.235,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+18,IPv4,63.135.161.242,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+19,IPv4,142.111.152.19,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+20,IPv4,142.111.152.23,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+21,IPv4,142.111.152.24,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+22,IPv4,143.198.173.194,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+23,IPv4,206.188.197.52,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+24,IPv4,192.42.116.200,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+25,IPv4,136.144.35.191,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+26,IPv4,199.101.196.85,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+27,IPv4,212.30.36.171,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+28,IPv4,212.30.36.173,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+29,IPv4,212.30.36.175,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+30,IPv4,212.30.36.183,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+31,IPv4,212.30.36.206,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+32,IPv4,212.30.36.219,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+33,IPv4,212.30.36.228,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+34,IPv4,212.30.36.231,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+35,IPv4,136.144.35.192,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+36,IPv4,136.144.35.196,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+37,IPv4,136.144.35.197,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+38,IPv4,136.144.35.199,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+39,IPv4,136.144.35.200,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+40,IPv4,136.144.35.202,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+41,IPv4,136.144.35.204,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+42,IPv4,136.144.35.205,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+43,IPv4,212.30.36.232,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+44,IPv4,212.30.36.234,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+45,IPv4,216.73.161.8,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+46,IPv4,216.73.161.15,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+47,IPv4,216.73.161.17,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+48,IPv4,216.73.161.18,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+49,IPv4,216.73.161.20,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+50,IPv4,216.73.161.21,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+51,IPv4,216.73.161.22,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+52,IPv4,216.73.161.25,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+53,IPv4,216.73.161.26,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+54,IPv4,136.144.35.206,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+55,IPv4,136.144.35.207,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+56,IPv4,89.187.164.96,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+57,IPv4,136.144.35.210,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+58,IPv4,136.144.35.189,IP address reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+59,File Hash (SHA256),1f72bd2643995fab4ecf7150b6367fa1b3fab17afd2abed30a98f075e4913087,JSP webshell used in the exploitation of CVE-2025-31324,EXPLOITATION,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+60,File Hash (SHA256),794cb0a92f51e1387a6b316b8b5ff83d33a51ecf9bf7cc8e88a619ecb64f1dcf,JSP webshell used in the exploitation of CVE-2025-31324,EXPLOITATION,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+61,File Hash (SHA256),b3e4c4018f2d18ec93a62f59b5f7341321aff70d08812a4839b762ad3ade74ee,JSP webshell used in the exploitation of CVE-2025-31324,EXPLOITATION,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+62,File Hash (SHA256),32deb0e7624e0d877abced2629e1dd7a6eb4f5b986565a4439db7d62dac5781f,JSP webshell used in the exploitation of CVE-2025-31324,EXPLOITATION,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+63,Domain,brandnav-cms-storage.s3.amazonaws.com,Domain reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+64,Domain,abode-dashboard-media.s3.ap-south-1.amazonaws.com,Domain reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
+65,Domain,ocr-freespace.oss-cn-beijing.aliyuncs.com,Domain reported to be involved in CVE-2025-31324 exploitation attempts,DELIVERY,SAP NetWeaver Flaw CVE-2025-31324 Exploitation
